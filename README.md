@@ -11,6 +11,9 @@ Atualmente a ADEVA possui um software de digitação para o ensino de digitaçã
 Por conta de todos os problemas enfrentados com o software antigo, resolvemos abrir para a criação de um software novo: Digita Fácil.
 Junto com as atualizações mais fáceis dos exercícios, queremos implementar grandes melhorias de usabilidade no novo software. Facilitando o aprendizado pelos alunos.
 
+[Requisitos do novo software](digita-facil.md)
+
+
 ## Como colaborar no projeto
 Esse é um projeto open-source, mas gerenciado por algumas pessoas. Qualquer pessoa pode contribuir com código, revisões ou ideias para finalizarmos o projeto.
 
